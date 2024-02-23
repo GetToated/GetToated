@@ -5,7 +5,7 @@
 
 <ul>
   <li>Resido en España, Palma de Mallorca🌴💖</li>
-  <li>Contacto conmiga: lucasfpinformatica@gmail.com🌍</li>
+  <li>Contacta conmigo: lucasfpinformatica@gmail.com🌍</li>
 </ul>
 
 
