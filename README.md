@@ -1,7 +1,7 @@
 <h1 align = center>Hola!<img style="margin: 10px" src="https://gifs.org.es/gifs/2020/09/7215/gif-para-saludar.gif" alt="Python" height="50" /> Soy Lucas Vazquez</h1>
 <p align = center><img src = https://i.pinimg.com/originals/f5/a5/a0/f5a5a01a72471e4729da5d665eacc0ba.gif></p>
 
-<h3>Estudiante FP Superior DAW</h3>
+<h3>Estudiante FP Superior DAW<img  style = "margin-bottom = 5px" style = "margin-left = 5px" src = "https://media.tenor.com/skDSIQeyHskAAAAM/muichiro-mist-hashira.gif" height="25" /></h3>
 
 <ul>
   <li>Resido en España, Palma de Mallorca🌴💖</li>
