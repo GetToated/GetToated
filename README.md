@@ -25,3 +25,4 @@
 <h3>Stats de GitHub. <img  style = "margin-bottom = 5px" style = "margin-left = 5px" src = "https://www.icegif.com/wp-content/uploads/2022/01/icegif-1425.gif" height="25" /></h3>
 
 ![Prudhvi's github stats](https://github-readme-stats.vercel.app/api?username=GetToated&show_icons=true&hide_border=true)
+<a href="https://github.com/GetToated"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GetToated&" />
